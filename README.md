@@ -8,3 +8,5 @@ This repository accompanies my BSc thesis on **how different archive designs inf
 *The Resistance* supplies a compact, adversarial environment in which Spies (using deception strategies) and Resistance fighters (using deduction strategies) evolve simultaneously.
 
 ---
+
+Obs: In progress..
